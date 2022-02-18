@@ -1,4 +1,4 @@
-# Order summary card [Live](https://yhertekin.github.io/qr-code-component/)
+# QR code component [Live](https://yhertekin.github.io/qr-code-component/)
 
 ## Desktop
 
